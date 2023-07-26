@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Need a hug?</string>
+    <string name="rach_11_feb">Always always always make any self-judgement in daylight. We are all a little worse for wear at night-time.</string>
+    <string name="hi_message">Hi, %1$s!</string>
+    <string name="button_text">Want another hug?</string>
+    <string name="button_hugs">* hugs *</string>
+    <string name="key_name">name</string>
+    <string name="key_new_hug">new_hug</string>
+    <string name="notalone">You\'re not alone</string>
+    <string name="question">What\'s your name?</string>
+    <string name="share">Share a hug!</string>
+    <string name="saveornot">Do you want to save this hug?</string>
+    <string name="save_error">Oops! Something went wrong</string>
+    <string name="cancel_dialog_msg">Are you sure you want to cancel?\nThe hug will not be saved.</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="go_back">Yes</string>
+    <string name="keep_editing">No</string>
+    <string name="add_message">Add a hug!</string>
+    <string name="empty_hug">Have you written anything?</string>
+    <string name="hug_hint">You can do this, %1$s!\nI believe in you\n*hugs*</string>
+    <string-array name="newHug">
+        <item>Yay!</item>
+        <item>You\'re amazing! ♡</item>
+        <item>*hugs*</item>
+        <item>Have a ♡ly Day!</item>
+        <item>So proud of you! x</item>
+        <item>Marvelous!</item>
+        <item>Glad you\'re here! :)</item>
+    </string-array>
+</resources>
